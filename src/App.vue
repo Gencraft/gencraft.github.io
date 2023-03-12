@@ -1,15 +1,15 @@
 <template>
 <Navbar />
-<div id="#about" class="bg-green-200 items-center content-center box-border columns-36 flex basis-auto flex-col flex-grow-0 flex-shrink-0 flex-nowrap justify-center overflow-auto h-96 m-0 p-0">
+<div id="#about" class="bg-[#C9EEFF] items-center content-center box-border columns-36 flex basis-auto flex-col flex-grow-0 flex-shrink-0 flex-nowrap justify-center overflow-auto h-96 m-0 p-0">
   <h1 class="font-inter text-5xl font-semibold py-12 pb-4">Gencraft</h1>
   <p class="font-inter text-2xl text-zinc-700 py-0">A collection of plugins and utilities that supercharge your Minecraft experience.</p>
 </div>
-<div class="bg-green-200 svg-wave">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#d9f99d" fill-opacity="1" d="M0,64L48,74.7C96,85,192,107,288,133.3C384,160,480,192,576,202.7C672,213,768,203,864,181.3C960,160,1056,128,1152,122.7C1248,117,1344,139,1392,149.3L1440,160L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"></path></svg>
+<div class="bg-[#C9EEFF] svg-wave">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#97DEFF" fill-opacity="1" d="M0,64L48,74.7C96,85,192,107,288,133.3C384,160,480,192,576,202.7C672,213,768,203,864,181.3C960,160,1056,128,1152,122.7C1248,117,1344,139,1392,149.3L1440,160L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"></path></svg>
 </div>
-<div id="#projects" class="bg-lime-200 items-center content-center box-border columns-36 flex basis-auto flex-col flex-grow-0 flex-shrink-0 flex-nowrap justify-center overflow-auto h-96 m-0 p-0">
+<div id="#projects" class="bg-[#97DEFF] items-center content-center box-border columns-36 flex basis-auto flex-col flex-grow-0 flex-shrink-0 flex-nowrap justify-center overflow-auto h-96 m-0 p-0">
   <h1 class="font-inter text-5xl font-semibold py-12 z-0 ">Plugins</h1>
-  <div class="max-w-sm p-6 bg-lime-300 border border-lime-300 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
+  <div class="max-w-sm p-6 bg-[#62CDFF] border border-[#4cbdf1] rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
     <a href="https://github.com/gencraft/coordhelper">
         <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Coordhelper</h5>
     </a>

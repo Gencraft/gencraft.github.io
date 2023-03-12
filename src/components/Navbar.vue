@@ -1,5 +1,5 @@
 <template>
-    <nav class="bg-green-200 backdrop-filter backdrop-blur-sm border-green-200 px-2 sm:px-4 py-2.5 rounded dark:bg-gray-900">
+    <nav class="bg-[#C9EEFF] backdrop-filter backdrop-blur-sm border-[#C9EEFF] px-2 sm:px-4 py-2.5 rounded dark:bg-gray-900">
   <div class="container flex flex-wrap items-center justify-between mx-auto">
   <a href="https://flowbite.com/" class="flex items-center">
       <span class="self-center text-xl font-semibold font-manrope whitespace-nowrap dark:text-white">gencraft</span>
@@ -18,7 +18,7 @@
     </button>
   </div>
   <div class="items-center justify-between hidden w-full md:flex md:w-auto md:order-1" id="navbar-cta">
-    <ul class="flex flex-col p-4 mt-4 border border-gray-100 rounded-lg bg-gray-50 md:flex-row md:space-x-8 md:mt-0 md:text-sm md:font-medium md:border-0 md:bg-green-200 dark:bg-gray-800 md:dark:bg-gray-900 dark:border-gray-700">
+    <ul class="flex flex-col p-4 mt-4 border border-gray-100 rounded-lg bg-gray-50 md:flex-row md:space-x-8 md:mt-0 md:text-sm md:font-medium md:border-0 md:bg-[#C9EEFF] dark:bg-gray-800 md:dark:bg-gray-900 dark:border-gray-700">
       <li>
         <a href="#about" class="block py-2 pl-3 pr-4 text-zinc-700 font-semibold font-manrope bg-zinc-700 rounded md:bg-transparent md:text-zinc-700 md:p-0 dark:text-white" aria-current="page">about</a>
       </li>
